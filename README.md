@@ -27,4 +27,4 @@ The outlier detection methods used in this project are:
 
 # Internship Report
 
-The paper presenting this project, its methods and results is available to consult. You need to send an email to obtain it.
+The paper presenting this project, its methods and results is available to consult.
